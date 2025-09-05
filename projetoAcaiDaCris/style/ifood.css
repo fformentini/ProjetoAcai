@@ -1,0 +1,12 @@
+main {
+    max-width: initial;
+}
+
+.ifood-photo {
+  height: 100vh;
+  background: url("../assets/ifood.png") no-repeat center center;
+  background-size: cover; 
+}
+.ifood-photo img {
+  display: none; 
+}
